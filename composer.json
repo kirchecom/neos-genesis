@@ -14,7 +14,6 @@
         "neos/redirecthandler-neosadapter": "~3.0",
         "neos/redirecthandler-databasestorage": "~3.0",
         "neos/setup": "~4.0",
-        "neos/neos-setup": "~1.0",
         "kirchecom/site-genesis": "~1.0"
     },
     "require-dev": {
