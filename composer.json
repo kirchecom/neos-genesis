@@ -16,7 +16,7 @@
         "neos/redirecthandler-ui": "~2.0",
         "neos/setup": "~4.1",
         "neos/neos-setup": "^1.0",
-        "kirchecom/site-genesis": "~2.0"
+        "kirchecom/site-genesis": "~2.2"
     },
     "require-dev": {
         "neos/buildessentials": "^6.0",
